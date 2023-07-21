@@ -1,0 +1,127 @@
+                                                                                      AUDITORS REPORT.
+
+TO,
+THE MEMBERS OF, 
+%TO%
+
+We have audited the attached Balance Sheet of %name% as at %date% and also the Profit and Loss 
+Account of the Company for the year ended on that date annexed thereto. These financial statements are the 
+responsibility of the Company's management. Our responsibility is to express an opinion on these financial 
+statements based on our audit. 
+                 We conducted our audit in accordance with auditing standards generally expected in India. Those 
+standards require that we plan and perform the audit to obtain reasonable assurances about wether the financial 
+statement are free of material miss-statement. An audit includes examining, on a test basis, evidence supporting 
+the amount and disclosures in the financial statements. An audit also includes assessing the accounting principles 
+used and significant estimates made by management, as well as evaluating the overall financial statements 
+presentation. We believe that our audit provides a reasonable basis for our opinion and report that;
+
+1.             We have obtained all the information and explanation, which to the best of our knowledge and 
+                belief were necessary for the purpose of our audit;
+
+2.            In our opinion, proper books of accounts are required by law have been kept by the Company, so far                         
+               as appears from our examination of such books;
+
+3.            The Balance Sheet and Profit and Loss Account referred to in this report are in   agreement with the             
+                Books of Accounts.
+
+4.             In our opinion and to the best of our information and according to the explanations given to us, the
+                said Balance Sheet and Profit and Loss Account  read together with the notes thereon give the                  
+                information required by the Companies Act, 1956 and in the manner so required and give a true and              
+                fair view;
+
+                (a)            In the case of the Balance Sheet, of the state of affairs of the company as at  %date% and 
+
+                (b)            In the case of the Profit and Loss Account of the Profit for the year ended on that date. 
+
+5.             On the basis of written representation received from the directors, taken on record	by the Board of                                   
+                Directors , no directors is disqualified as on %date% from being appointed as director U/s. 274(1)(o)             
+                of the Companies Act.
+ 
+6.             In our opinion Profit & Loss Account, Balance Sheet comply with the accounting standards referred                         
+                to in sub-section 3(c) of section 211.
+
+7.            As required by the manufacturing and other Companies (Audit Report) Order, 1998 issued by the                         
+               Company Law Board in the terms of section 227 (4A) of the Companies Act, 1956 and on the basis                                     
+               of checks of the books of account and records of the Company as we considered appropriate and                         
+               according to the information and explanations given to us during the course of audit we further state                         
+               on the matters specified in paragraph 4 and 5 of the said order that;
+
+               i)             The Company has maintained proper records to show full particulars including quantitative                                                 
+                               details and situation of the fixed assets.  Physically verification of the fixed assets was                                                                                                 
+                               conducted by the management during the year which in our opinion is reasonable having                                                 
+                               regard to the size of the Company and nature of its assets. No material 
+                               discrepancies; were noticed, on such verification, as compared with the book records; 
+
+                ii)            None of the Fixed Assets have been revalued during the year.
+
+                iii)           The stock of the finished goods, stores, spare parts and raw material have been physically                         
+                                verified by the management during the year at reasonable intervals.
+
+                iv)            The procedure of physical verification of stocks followed by the management are in our                                                                         
+                                opinion reasonable and adequate in relation to the size of the Company and the nature of its                         
+                                business.
+
+                v)             The discrepancies noticed on verification between the physical stock and book records were                         
+                                not material in relation to the operation of the Company.
+
+                vi)            In our opinion, the valuation of stock is fair and proper in accordance with the normally                         
+                                accepted accounting principles., and is on the same basis as previous year.
+
+                vii)           In our opinion, the rate of the interest and other terms and conditions on which loans have                                                 
+                                been taken from the Companies, Firms, or other parties listed in the registers maintained                                                 
+                                under section-301 and from the Companies under the same management are not prima facie,                         
+                                prejudicial to the interest of the Company; 
+ 
+                viii)          The Company has not granted any loans secured or unsecured to Companies, Firms or other                                                                          
+                                parties listed in the register maintained under section 301 of  the Companies Act, 1956 or to                                                 
+                                Companies under the same management as defined under section 370(1-B) of the                                                 
+                                Companies Act 1956.
+
+                 ix)            In our opinion and according the information and explanations given to us, there are adequate                                                 
+                                internal control procedures commensurate with the size of the Company and the nature of its                                                 
+                                business with regard to purchases of stores, raw materials including components, plant and                         
+                                machinery, equipment and other assets and with regard to the sale of goods. 
+
+                x)             In our opinion, the transactions of purchase of goods and materials and sale of goods,                         
+                                materials and services made in pursuances of contracts of arrangements under section 301                                                 
+                                of the Companies Act, 1956 and aggregating during the year to Rs. 50,000/- or more in                         
+                                respect of each party have been  made at prices which are reasonable having regard to the                         
+                                prevailing market prices for which transactions for similar goods and materials have been                         
+                                made with other parties. 
+
+                xi)            In our opinion, the Company has not accepted any deposits from the public falling within the                                                   
+                                purview of directives issued by the Reserve Bank of India, and the provisions of section 58(A)                         
+                                of the Companies Act, 1956 and the rules framed thereunder. 
+
+               xii)           The Company has regular procedure for determination of damaged goods and adequate                         
+                                provisions have been made in accounts for the loss arising of items as determined.
+
+                xiii)          We have been informed that the maintenance of cost records have not been prescribed by                         
+                                the Central Govt. under  section 209 (1)(d) of the Companies Act, 1956 in case of the                         
+                                Company.
+
+                xiv)          In our opinion and according to the information and explanation given to us, the provisions of 
+                                Provident Fund Act and Employee's  State Provision Act are not applicable to the Company.
+
+                xv)           There are no undisputed amounts payable in respect of Income tax, Wealth tax, Custom 
+                                duty and Excise Duty which have been remained outstanding as at %date% for a period for 
+                                more than Six Months from the date they become payable.
+ 
+               xvi)           No personal expenses of employees or directors have been charged to revenue account,                         
+                                other than those payable under contractual obligation or in accordance with the generally                         
+                                accepted business practices.
+ 
+                xvii)         The Company is not a sick industrial Company within the meaning of Clause (D) of sub                         
+                                section (1) of section (3) of sick industrial Companies (Special Provisions) Act, 1956.
+
+In our opinion Clauses ix), xiv) of the Act are not applicable to the Company hence we have not offered our 
+comments on the matters specified therein.
+                                                                                                 For :       
+                                                                                                        %username%
+                                                                                                        %userdesig%
+Place :%signplace%
+Date  :%signdate%
+                                                                                                        %signname%
+                                                                                                        %signdesig%
+
+
